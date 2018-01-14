@@ -346,3 +346,7 @@ p.firstLetter::first-letter {
 #writing-content img.vert {
   margin-left: 34%;
 }
+
+#writing-content img.horiz {
+  width: 100%;
+}
